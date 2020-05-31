@@ -3,7 +3,8 @@
     "dependencies": {
         "device": "*"
     },
-    "description": "",
+    "description": "Additional sprites made with love",
+    "icon": "icon.png",
     "files": [
         "main.blocks",
         "main.ts",
