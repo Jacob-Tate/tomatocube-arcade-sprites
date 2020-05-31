@@ -4,7 +4,7 @@
         "device": "*"
     },
     "description": "Additional sprites made with love",
-    "icon": "icon.png",
+    "icon": "https://raw.githubusercontent.com/TomatoCube18/tomatocube-arcade-sprites/master/icon.png",
     "files": [
         "main.blocks",
         "main.ts",
