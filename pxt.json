@@ -8,8 +8,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "arcade-sprites.jres",
-        "arcade-sprites.ts"
+        "sprites.jres",
+        "sprites.ts"
     ],
     "preferredEditor": "blocksprj",
     "testFiles": [
