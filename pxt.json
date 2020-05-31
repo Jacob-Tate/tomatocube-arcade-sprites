@@ -9,7 +9,9 @@
         "main.ts",
         "README.md",
         "sprites.jres",
-        "sprites.ts"
+        "sprites.ts",
+        "logo.jres",
+        "logo.ts"
     ],
     "preferredEditor": "blocksprj",
     "testFiles": [
