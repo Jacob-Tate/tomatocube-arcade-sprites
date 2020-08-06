@@ -32,3 +32,6 @@ This image may take a few minutes to refresh.
 * for PXT/arcade
 (The metadata above is needed for package search.)
 
+## Credits
+
+* If you love the dinosaur sprites in this package, you will love the sprites created by https://twitter.com/scissormarks too. His creation has inspired us. You can purchase his work at https://arks.itch.io/dino-characters
