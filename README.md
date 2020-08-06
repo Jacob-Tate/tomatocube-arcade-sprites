@@ -30,3 +30,6 @@ This image may take a few minutes to refresh.
 * for PXT/arcade
 (The metadata above is needed for package search.)
 
+## Credits
+
+* The dinosaur sprite in this package is inspired by <a href="https://twitter.com/scissormarks" rel="nofollow">Arks</a>. You can also support and purchase his sprite at <a href="https://arks.itch.io/dino-characters" rel="nofollow">itch.io</a>.
