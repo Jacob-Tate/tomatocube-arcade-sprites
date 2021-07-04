@@ -9,7 +9,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "sprites.jres"
+        "sprites.jres",
         "logo.jres"
     ],
     "preferredEditor": "blocksprj",
